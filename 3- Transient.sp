@@ -1,6 +1,4 @@
 *Modified Banba Bandgap Voltage Reference in 90nm CMOS 
-*Name: MohammadAli Daneshsefatdost
-*student Number: 99123026
 *________________________________________________________library @[90nm CMOS]__________________________________________________
 
 .lib './TSMC_90nm.l' tt
